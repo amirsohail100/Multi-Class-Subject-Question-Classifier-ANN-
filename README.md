@@ -8,7 +8,7 @@ An end-to-end Deep Learning project that classifies educational questions into t
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
 
-👉 **[Click here to access the Live Web Application](https://your-app-name.streamlit.app)**
+👉 **[Click here to access the Live Web Application](https://multi-class-subject-question-classifier-ann-git-gjmsvdcqebqy9c.streamlit.app/)**
 
 <div align="center">
   <img src="UI.png" alt="Streamlit Web Application UI Preview" width="85%">
