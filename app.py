@@ -56,7 +56,7 @@ def load_assets():
         from tensorflow.keras.models import load_model
         
         # ⚠️ Apne files ke sahi naam se inhe replace kar lena agar alag hain:
-        model = load_model('subject_gru_model.h5') 
+        model = load_model('model.h5') 
         with open('tokenizer.pkl', 'rb') as handle:
             tokenizer = pickle.load(handle)
         with open('label_encoder.pkl', 'rb') as handle:
