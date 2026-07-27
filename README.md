@@ -11,7 +11,7 @@ An end-to-end Deep Learning project that classifies educational questions into t
 👉 **[Click here to access the Live Web Application](https://your-app-name.streamlit.app)**
 
 <div align="center">
-  <img src="./path/to/your/app-ui-screenshot.png" alt="Streamlit Web Application UI Preview" width="85%">
+  <img src="UI.png" alt="Streamlit Web Application UI Preview" width="85%">
   <p><i>Figure: Interactive Streamlit UI for Multi-Class Subject Question Prediction</i></p>
 </div>
 
@@ -41,6 +41,9 @@ Automatically categorizing academic questions into subject domains is crucial fo
 .
 ├── app.py                     # Streamlit application interface
 ├── label_encoder.pkl          # Pickled Label Encoder for subject categories
+├── .gitignore                  # Git ignore file for excluding unnecessary files
+├── README.md                  # Project documentation and overview
+├── UI.png                     # Screenshot of the Streamlit Web Application UI
 ├── model.h5                   # Trained Keras ANN model weights
 ├── model.ipynb                # Jupyter notebook (EDA, Preprocessing, Training & Evaluation)
 ├── subjects-questions.csv     # Dataset containing questions and target subjects
