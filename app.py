@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import time
+import joblib
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
@@ -57,10 +58,8 @@ def load_assets():
         
         # ⚠️ Apne files ke sahi naam se inhe replace kar lena agar alag hain:
         model = load_model('model.h5') 
-        with open('tokenizer.pkl', 'rb') as handle:
-            tokenizer = pickle.load(handle)
-        with open('label_encoder.pkl', 'rb') as handle:
-            label_encoder = pickle.load(handle)
+        tokenizer = joblib.load('tokenizer.pkl')  # Tokenizer ko joblib se load karna zyada efficient hai
+        label_encoder = joblib.load('label_encoder.pkl')  # Label Encoder ko bhi joblib se load karna zyada efficient hai
             
         return model, tokenizer, label_encoder, True
     except Exception as e:
