@@ -45,6 +45,6 @@ Automatically categorizing academic questions into subject domains is crucial fo
 ├── model.ipynb                # Jupyter notebook (EDA, Preprocessing, Training & Evaluation)
 ├── subjects-questions.csv     # Dataset containing questions and target subjects
 └── tokenizer.pkl              # Serialized Tokenizer object for text processing
+```
 
 Multi-class Subject Question Classifier built with Deep Learning (ANN) achieving 95% accuracy. Integrates full text tokenization, label encoding, Keras (.h5) model inference, and an interactive Streamlit UI for real-time academic question classification.
-```
