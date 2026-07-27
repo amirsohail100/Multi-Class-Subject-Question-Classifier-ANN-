@@ -60,4 +60,10 @@ git clone https://github.com/amirsohail100/Multi-Class-Subject-Question-Classifi
 cd Multi-Class-Subject-Question-Classifier-ANN
 ```
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
 Multi-class Subject Question Classifier built with Deep Learning (ANN) achieving 95% accuracy. Integrates full text tokenization, label encoding, Keras (.h5) model inference, and an interactive Streamlit UI for real-time academic question classification.
