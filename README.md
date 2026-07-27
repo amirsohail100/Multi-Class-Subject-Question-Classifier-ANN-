@@ -41,6 +41,7 @@ Automatically categorizing academic questions into subject domains is crucial fo
 .
 ├── app.py                     # Streamlit application interface
 ├── label_encoder.pkl          # Pickled Label Encoder for subject categories
+├── requirements.txt           # Python dependencies for the project
 ├── .gitignore                 # Git ignore file for excluding unnecessary files
 ├── .gitattributes             # Git attributes for repository configuration
 ├── README.md                  # Project documentation and overview
