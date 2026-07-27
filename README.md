@@ -52,4 +52,8 @@ Automatically categorizing academic questions into subject domains is crucial fo
 └── tokenizer.pkl              # Serialized Tokenizer object for text processing
 ```
 
+```bash
+git clone https://github.com/amirsohail100/AI-vs-Human-Text-Detection-using-Deep-Learning-LSTM-.git
+```
+
 Multi-class Subject Question Classifier built with Deep Learning (ANN) achieving 95% accuracy. Integrates full text tokenization, label encoding, Keras (.h5) model inference, and an interactive Streamlit UI for real-time academic question classification.
