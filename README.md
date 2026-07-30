@@ -64,7 +64,11 @@ cd Multi-Class-Subject-Question-Classifier-ANN
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+## This project is licensed under the MIT License.
+
+```bash
+pip install -r requirements.txt
+```
 
 ---
 
