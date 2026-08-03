@@ -25,7 +25,7 @@ An end-to-end Deep Learning project that classifies educational questions into t
 - [Key Features](#-key-features)
 - [Performance Metrics](#-performance-metrics)
 - [How to Setup & Run](#-how-to-setup--run)
-- [Author](#-author)
+- [Author : Amir Sohail](#amir-sohail--author)
 
 ---
 
