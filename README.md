@@ -11,7 +11,7 @@ An end-to-end Deep Learning project that classifies educational questions into t
 👉 **[Click here to access the Live Web Application](https://multi-class-subject-question-classifier-ann-git-gjmsvdcqebqy9c.streamlit.app/)**
 
 <div align="center">
-  <img src="UI.png" alt="Streamlit Web Application UI Preview" width="85%">
+  <img src="UI.png" alt="Multi-Class Subject Question Streamlit Web Application UI Preview" width="85%">
   <p><i>Figure: Interactive Streamlit UI for Multi-Class Subject Question Prediction</i></p>
 </div>
 
