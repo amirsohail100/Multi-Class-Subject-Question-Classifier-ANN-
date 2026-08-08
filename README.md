@@ -60,9 +60,17 @@ git clone https://github.com/amirsohail100/Multi-Class-Subject-Question-Classifi
 cd Multi-Class-Subject-Question-Classifier-ANN
 ```
 
+## 💻 Installation
+
+1. Install Python 3.10 or higher.
+
+2. Install the required dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
+
+3. Run the application:
 
 ```bash
 streamlit run main.py
