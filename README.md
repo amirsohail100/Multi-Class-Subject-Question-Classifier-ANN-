@@ -60,12 +60,6 @@ git clone https://github.com/amirsohail100/Multi-Class-Subject-Question-Classifi
 cd Multi-Class-Subject-Question-Classifier-ANN
 ```
 
----
-
-## 📄 License
-
-## This project is licensed under the MIT License.
-
 ```bash
 pip install -r requirements.txt
 ```
